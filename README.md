@@ -1,1 +1,1 @@
-# NSI-TP10
+# NSI-TP10 : Les algorithmes gloutons
